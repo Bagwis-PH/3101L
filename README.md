@@ -1,2 +1,2 @@
 # 3101L
-This repository features my coursework for CPE 3101L, focusing on digital system design using Verilog HDL and FPGA prototyping.
+This repository features my coursework for CPE 3101L, focusing on digital system design using Verilog HDL and FPGA prototyping. The collection includes lab activities and projects that cover the complete design flow, from writing synthesis constructs for logic circuits to performing functional verification through simulation. By utilizing FPGAs, these files demonstrate the implementation of complex digital systems and physical I/O interfacing.
